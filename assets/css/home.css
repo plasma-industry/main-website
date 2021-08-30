@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
+
+.title{
+
+    text-align: center;
+    color: white;
+    padding: 5vh;
+    font-size: 6vh;
+    font-family: 'Slabo 27px', serif;
+
+}
